@@ -6,4 +6,4 @@
 
 ## Demo
 
-[![Regarder la vidéo](demo.jpg)](demo.mp4)
+[![Watch the video](demo.jpg)](demo.mp4)
